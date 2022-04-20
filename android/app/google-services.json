@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41454857158",
+    "project_id": "flutter-server-side-messages",
+    "storage_bucket": "flutter-server-side-messages.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41454857158:android:eabef0de0d1e7eac7460c7",
+        "android_client_info": {
+          "package_name": "com.six.server_side_messages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41454857158-8rd5qopj5m7lblbnt157m3nosnkoahc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjxU0WkOmzkuPPJ13udEQYgqn2kiibz-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41454857158-8rd5qopj5m7lblbnt157m3nosnkoahc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
